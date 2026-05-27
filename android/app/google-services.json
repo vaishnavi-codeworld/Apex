@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818737747367",
+    "project_id": "apexfirebase-34fa1",
+    "storage_bucket": "apexfirebase-34fa1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818737747367:android:58df8442439966b13d1282",
+        "android_client_info": {
+          "package_name": "com.example.apex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4v1oz8gmDHz8a9FYaZPqBsSBUZ4EoC6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
